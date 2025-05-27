@@ -6,7 +6,7 @@ A structured path to mastering AWS with a focus on **cost control**, **web app a
 
 ---
 
-## 🧭 Phase 1: Foundation in AWS and Cloud Fundamentals
+## Phase 1: Foundation in AWS and Cloud Fundamentals  🧭 
 
 ### 🔹 Topics & Resources
 
@@ -36,7 +36,7 @@ A structured path to mastering AWS with a focus on **cost control**, **web app a
 
 ---
 
-## 🏗️ Phase 2: Building and Deploying Web Applications
+## Phase 2: Building and Deploying Web Applications  🏗️ 
 
 ### 🔹 Architectural Patterns & Trade-Offs
 
@@ -54,7 +54,7 @@ A structured path to mastering AWS with a focus on **cost control**, **web app a
 
 ---
 
-## 🔧 Phase 3: Advanced Topics – Cost Control & Uptime
+## Phase 3: Advanced Topics – Cost Control & Uptime  🔧 
 
 ### 🔹 Cost Management
 
@@ -76,7 +76,7 @@ A structured path to mastering AWS with a focus on **cost control**, **web app a
 
 ---
 
-## 🚀 Phase 4: Capstone Project
+## Phase 4: Capstone Project  🚀 
 
 ### 🔹 Tools & Resources
 
@@ -101,7 +101,7 @@ A structured path to mastering AWS with a focus on **cost control**, **web app a
 
 ---
 
-## 💡 Bonus Learning Resources
+## Bonus Learning Resources  💡 
 
 - [AWS Whitepapers & Guides](https://aws.amazon.com/whitepapers/)
 - [AWS Solutions Library](https://aws.amazon.com/solutions/)
