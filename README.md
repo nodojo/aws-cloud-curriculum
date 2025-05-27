@@ -1,6 +1,6 @@
 # AWS Cloud Curriculum
 
-# 🌩️ AWS Cloud Development Curriculum – By Hagen for Jamie
+# 🌩️ AWS Cloud Development Curriculum
 
 A structured path to mastering AWS with a focus on **cost control**, **web app architectural patterns**, and **uptime maximization**.
 
